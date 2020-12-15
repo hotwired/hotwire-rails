@@ -11,7 +11,7 @@ This gem installs both Turbo and Stimulus into your Rails application for use wi
 
 ## Installation
 
-1. Add the `hotwire-rails` gem to your Gemfile: `gem 'hotwire-rails'
+1. Add the `hotwire-rails` gem to your Gemfile: `gem 'hotwire-rails'`
 2. Run `./bin/bundle install`.
 3. Run `./bin/rails hotwire:install`
 
