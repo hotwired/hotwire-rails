@@ -2,7 +2,7 @@ require "hotwire/version"
 require "hotwire/engine"
 
 require "turbo-rails"
-require "stimulus-rails"
+require "hotwire-stimulus-rails"
 
 module Hotwire
 end
