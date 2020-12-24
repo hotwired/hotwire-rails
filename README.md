@@ -23,4 +23,4 @@ See https://github.com/hotwired/turbo-rails and https://github.com/hotwired/stim
 
 ## License
 
-Stimulus for Rails is released under the [MIT License](https://opensource.org/licenses/MIT).
+Hotwire for Rails is released under the [MIT License](https://opensource.org/licenses/MIT).
