@@ -18,7 +18,7 @@ This gem installs both Turbo and Stimulus into your Rails application for use wi
 
 ## Usage
 
-See https://github.com/hotwired/turbo-rails and https://github.com/hotwired/stimulus-rails
+See <https://github.com/hotwired/turbo-rails> and <https://github.com/hotwired/stimulus-rails>
 
 
 ## License
