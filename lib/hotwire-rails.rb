@@ -5,4 +5,5 @@ require "turbo-rails"
 require "stimulus-rails"
 
 module Hotwire
+  extend ActiveSupport::Autoload
 end
