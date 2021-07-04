@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version     = Hotwire::VERSION
   spec.authors     = [ "Sam Stephenson", "Javan Mahkmali", "David Heinemeier Hansson" ]
   spec.email       = "david@loudthinking.com"
-  spec.homepage    = "https://hotwire.dev/"
+  spec.homepage    = "https://hotwired.dev/"
   spec.summary     = "HTML over the wire."
   spec.license     = "MIT"
 
